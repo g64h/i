@@ -1,0 +1,64 @@
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/100-DirectFont-Thin.woff2") format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/200-DirectFont-ExtraLight.woff2") format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/300-DirectFont-Light.woff2") format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/400-DirectFont-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/500-DirectFont-Medium.woff2") format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/600-DirectFont-SemiBold.woff2") format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/700-DirectFont-Bold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DirectFont';
+  src: local('DirectFont'), url("https://cdn.jsdelivr.net/gh/g64h/i@latest/direct_font_woff2/800-DirectFont-Black.woff2") format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
